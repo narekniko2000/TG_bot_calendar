@@ -1,5 +1,3 @@
-# TG_bot_calendar
-
 📅 Telegram Calendar Bot - README
 
 This is a simple Telegram bot that displays an interactive calendar. Users can navigate between months and select a specific date using inline buttons.
